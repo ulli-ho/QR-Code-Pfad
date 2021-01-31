@@ -28,9 +28,9 @@
           hilft somit bei der Komposttierung! Es ist:
        <br />AH: die Larve vom Regenwurm
        <br />GE: eine Schneckenlarve
-       <br />KU: die Larve vom Rosenkäfer
-       <br />
-       <br />
+       <br />KU: die Larve vom Rosenkäfer 
+       <br /> <img src="3komposthaufen-Rosenkäfer.png" alt="Bildbeschreibung"> 
+       <br /> https://www.gartengnom.net/wp-content/uploads/2017/04/rosenkaefer-larven-01.jpg
 
   </body>
 </html>
