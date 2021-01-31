@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ziel</title>
+  </head>
+  <body>
+    <h1>Ziel</h1>   
+    <p>Hurra, du hast das ZIEL erreicht! </p>
+    
+    <p>Lieber Bezwinger des QR-Code-Parcours, <br />
+      herzlichen Glückwunsch. Offenbar konntest du alle Fragen beantworten!
+      Hier findest du ein Tütchen mit Sonnenblumensamen, das du als Belohnung <br />
+      mitnehmen darfst.<br />
+      Bringe die Samen in der Nähe deines Wohnortes an einer Stelle aus, wo <br />
+      dringend eine kleine Futterstelle für Insekten benötigt wird. </p>
+
+    <p>Wie gedeihen die Sonnenblumensamen am besten?<br />
+      1. Erde auflockern!<br />
+      2. Bringe 2- 3 Samen pro Loch mit ausreichend Abstand (50 cm) zwischen<br />
+      den einzelnen Löchern in die Erde und bedecke deine Samen mit Erde.<br />
+      3. Regelmäßig gießen!<br />
+      4. Gönne den größer werdenden Pflanzen eine Stütze! (Sonnenblumen an <br />
+      einen Stock binden!)<br />
+      Vielen Dank, damit verschönerst du unsere Stadt und bietest Tieren eine<br />
+      Nahrungsquelle!</p>
+
+    <p>DANKE FÜRS MITMACHEN :)</p>
+  </body>
+</html>

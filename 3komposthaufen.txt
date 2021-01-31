@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3. Der Komposthaufen</title>
+  </head>
+  <body>
+   <h1>Station 3: Der Komposthaufen</h1>
+    <p>Was passiert bei der Kompostierung?<br />
+      Bei der Kompostierung wird organales  Material (z. B. Pflanzenreste) mit der  <br />
+      Hilfe von Luftsauerstoff durch eine große Anzahl von Kleinlebewesen und <br />
+      Mikroorganismen abgebaut (der biochemische Prozess heißt Atmung). Dabei <br />
+      entsteht neben Kohlenstoffdioxid wertvoller Humus und nährstoffreiche Erde. </p>
+
+    <p>Welche Organismen können organischen Abfall zerlegen? <br />
+      Schnecken, Asseln, Käferlarven, Würmer, Pilze, Protozoen, Bakterien, ... </p>
+
+    <p>Welchen Faktor begünstigen den Verrottungsprozess?<br />
+      - warme Temperaturen<br />
+      - ausreichend Wasser und Sauerstoff<br />
+      - gute Durchmischnung<br />
+      - Vorhandensein vieler Mikroorganismen</p>
+
+    <hr /> Wie gut kennst du dich in der Tierwelt aus? <br />
+          Diese Tiere findet man häufig im Kompost und<br />
+          in Hochbeeten, es ernährt sich von Pflanzenresten und <br />
+          hilft somit bei der Komposttierung! Es ist:
+       <br />AH: die Larve vom Regenwurm
+       <br />GE: eine Schneckenlarve
+       <br />KU: die Larve vom Rosenkäfer
+       <br />
+       <br />
+
+  </body>
+</html>

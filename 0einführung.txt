@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1. Historisches zum Botanischen Garten</title>
+  </head>
+  <body>
+    <h1>Station 1: Historisches zum Botanischen Garten</h1>
+    <p>Am 12.06.1892 wurde die Eröffnung des "Botanischen Zentralschulgartens" <br />
+       gefeiert, ca. 100 Jahre später wird dieser zu "Schulbiologiezentrum - <br />
+       Botanischer Lehrgarten" umbenannt. Damals war es noch eine Pflanzenschule, <br />
+       die Pflanzenmaterialien an Schulen für deren Unterricht in den Fächern <br />
+       Botanik, Kunst, Chemie, Geografie geliefert haben. </p>
+
+    <p>Der Botanische Garten hatte seit seiner Eröffnung immer wieder mit Rückschlägen <br />
+       zu kämpfen, natürliche wie Frost, Dürre ... oder anderen wie Zerstörung durch <br />
+       die Weltkriege oder finanzielle Engpässe. Trotzdem  ging es immer weiter, in <br />
+       den Jahren 1946-1959 wurde der Botanische Garten erweitert, auf Geländeteilen <br />
+       des ehemaligen Freibades und die ersten Gewächshäuser entstanden. Besonder <br />
+       erwähnenswert ist das Jahr 1910, in dem wir mit zwei Fotografien und einem <br />
+       gemalten Plan eine Goldmedaille gewannen.</p>
+
+    <p>Jetzt besteht das Schulbiologiezentrum der Stadt Leipzig aus den Bereichen <br />
+       Botanischer Lehrgarten, Freiluftschule, Botanikschule und Zooschule. Es bietet <br />
+       den Schüler ein umfangreiches Angebot für natur- und erlebnisorientierten <br /> 
+       Sach- und Biologieunterricht. Ein aktives Engagement zur Bewahrung der Umwelt <br />
+       und eine nachhaltige Umweltbildung und aller Schüler wird durch diese Angebote <br />
+       0unterstützt.</p>
+
+     <hr />Hast du den kurzen Text aufmerksam gelesen?
+      <br />Im Jahr 2020 feierten wir...
+      <br />EH: ...50 Jahre Schulbiologie - Botanischer Lehrgarten 
+      <br />HF: ...110 Jahre Leipziger Zentralschulgarten 
+      <br />LK: ...128 Jahre Botanischen Zentralschulgarten <br /> <br />
+
+
+    <img src="1historisches-1892.png" alt="Bildbeschreibung"> <br />
+    1892 <br /> <br />
+
+    <img src="1historisches-1916.png" alt="Bildbeschreibung"> <br />
+    1916 <br /> <br />
+
+    <img src="1historisches-1998.png" alt="Bildbeschreibung"> <br />
+    1998
+  </body>
+</html> 

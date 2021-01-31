@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7. Ökosystem Teich</title>
+  </head>
+  <body>
+    <h1>Station 7: Ökosystem Teich</h1>
+
+    <p>Stoffkreislauf: <br />
+     Die Pflanzen nehmen Kohlenstoffdioxid und Nährsalze auf. Kohlenstoffdioxid <br />
+     wandeln sie durch Fotosynthese in Sauerstoff um und scheiden diesen dann aus. <br />
+     Der Sauerstoff und die durch Pflanzenwachstum produzierte Biomasse ist für andere <br />
+     Lebewesen im Teich wichtig.</p>
+
+    <p>Problematisch wird es, wenn aufgrund von fehlender Wasserumwälzung, <br />
+     Laubeintrag, Algenwachstum und hohe Temperatur zu Sauerstoffmangel und <br />
+     Verschlammung des Gewässers kommt. Die hier vorkommenden Organismen stehen <br />
+     in vielfältiger Beziehung zueinander.</p>
+
+    <p>Welche Organismen lebt im/ am Teich: <br />
+      - Pflanzen (Wasserlilien, Seerosen ...) <br />
+      - Fische (Karpfen, Stichlinge ...) <br />
+      - Amphibien (Frösche, Molche ...) <br />
+      - Insekten (Libellen, Wasserläufer ...) <br /> 
+      - andere (Schnecken, Enten ...) <br /></p>
+
+    <p>Der Teich ist ein vom Menschen angelegtes Gewässer und kann ein zu- und Ablauf <br />
+     besitzen, wodurch die Wasserumwälzung möglich wird. Aufgrund seiner geringen Tiefe <br />
+     gibt es keine feste Temperaturbildung wie bei einem tiefen See.<br />
+     Von Teichen existieren verschiedene Nutzformen, wir können ihn als eigenes Ökosystem <br />
+     betrachten. </p>
+
+   <hr /> Frage: Was ist keine Gartenteichart?
+       <br />SZ: Molchteich
+       <br />KD: Koiteich
+       <br />TR: Karpfenteich
+  </body>
+</html>  
