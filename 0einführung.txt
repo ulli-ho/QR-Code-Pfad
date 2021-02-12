@@ -17,14 +17,16 @@
       3. in dem Pfad erfährst du in verschiedenen Stationen interessante Dinge <br />
       rund um den Garten, am Ende jeder Station findest du ein kleines Rätsel <br />
       - es gibt immer nur eine richtige Lösung! Durch das Lösen erhälst du <br />
-      Buchstaben, die dich dann zum Schatz führen. Viel Glück! </p> 
+      Buchstaben, die dich dann zum Schatz führen. Am besten schreibst du dir die <br />
+      Buchstaben auf, dann fällt es dir am Ende leicher den Schatz zu finden. <br />
+      Viel Glück! </p> 
 
     <p>Dieser QR-Code-Pfad wurde von der Schülerin Ulrike Hofmann der <br />
      Arwed-Rossbach-Schule, mit der Hilfe der Biologie und Chemie Lehrerin <br />
      Frau Göpfert-Krauß erstellt. <br />
-     Ich möchte mich ganz herzlichen bei dem Förderverein des Schulbiologie Zentrums <br />
-     für die finanzierung der Schilder, sowie den Mitarbeitern des botanischen <br />
-     Lehrgartens bedanken. Besonderer  Dank gilt dem Leiter des botanischen Lehrgartens <br />
-     Herrn Axel Rehm für die freundliche Unterstützung.</p>
+     Ich möchte mich ganz herzlichen bei dem Förderverein des Schulbiologie <br />
+     Zentrums für die finanzierung der Schilder, sowie den Mitarbeitern des <br />
+     botanischen Lehrgartens bedanken. Besonderer  Dank gilt dem Leiter des <br />
+     botanischen Lehrgartens Herrn Axel Rehm für die freundliche Unterstützung.</p>
   </body>
 </html>

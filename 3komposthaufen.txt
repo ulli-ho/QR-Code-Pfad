@@ -8,7 +8,7 @@
   <body>
    <h1>Station 3: Der Komposthaufen</h1>
     <p>Was passiert bei der Kompostierung?<br />
-      Bei der Kompostierung wird organales  Material (z. B. Pflanzenreste) mit der  <br />
+      Bei der Kompostierung wird organisches Material (z. B. Pflanzenreste) mit der  <br />
       Hilfe von Luftsauerstoff durch eine große Anzahl von Kleinlebewesen und <br />
       Mikroorganismen abgebaut (der biochemische Prozess heißt Atmung). Dabei <br />
       entsteht neben Kohlenstoffdioxid wertvoller Humus und nährstoffreiche Erde. </p>
@@ -22,13 +22,18 @@
       - gute Durchmischnung<br />
       - Vorhandensein vieler Mikroorganismen</p>
 
-    <hr /> Wie gut kennst du dich in der Tierwelt aus? <br />
+    <hr /> 
+         Hast du den kurzen Text aufmerksam gelesen? <br /> 
+          Dann kannst du diese Aufgabe ja beantworten. <br />
+          Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br />
+    
+         Wie gut kennst du dich in der Tierwelt aus? <br />
           Diese Tiere findet man häufig im Kompost und<br />
           in Hochbeeten, es ernährt sich von Pflanzenresten und <br />
-          hilft somit bei der Komposttierung! Es ist:
-       <br />AH: die Larve vom Regenwurm
-       <br />GE: eine Schneckenlarve
-       <br />KU: die Larve vom Rosenkäfer 
+          hilft somit bei der Kompostierung! Es ist:
+       <br />UEBER: die Larve vom Regenwurm
+       <br />NEBEN: eine Schneckenlarve
+       <br />UNTER: die Larve vom Rosenkäfer 
        <br /> <img src="3komposthaufen-Rosenkäfer.png" alt="Bildbeschreibung"> 
        <br /> https://www.gartengnom.net/wp-content/uploads/2017/04/rosenkaefer-larven-01.jpg
 

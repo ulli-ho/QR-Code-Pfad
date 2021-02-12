@@ -11,18 +11,17 @@
       Überwinterungsgelegenheiten für Insekten. Einheimische Solitärbienen <br />
       und -wespen, die für die Bestäubung vieler verschiedener Pflanzen wichtig <br />
       sind, können hier eine Heimat finden. Ihre natürlichen Standorte wie <br />
-      abgestorbene Baumriesen, Totholz, Trockenrasen und -mauern sind durch intensive <br />
-      Nutzung der Menschen verloren gegangen.</p>
+      abgestorbene Baumriesen so wie Trockenrasen und -mauern sind durch intensive <br />
+      Flächennutzung durch den Menschen verloren gegangen.</p>
 
     <p>Seit ca. 30 Jahren erfahren sie zunehmend Verbreitung und Beliebtheit, zumal in <br />
       diesem Zeitraum wissenschaftlich bestätigt ein rapider Rückgang an Insekten <br />
-      (Artenzahl + Menge an Insekten) offenbart wurde. <br />
-      Dafür gibt es vielerlei Gründe, insbesondere der Verlust an Lebensraum (Wegräumen <br />
-      von Totholz, Veränderung in der Landschaft, Ausbreitung nicht heimischer <br />
-      Gartenpflanzen) ist ein wesentlicher Faktor. <br />
-      Dabei sind Insekten nicht nur Bestäuber vieler Nutzpflanzen, sie sind die Grundlage<br />
-      aller Nahrungsketten. Der Artenschwund hat massive Folgen für uns Menschen, nicht nur <br />
-      für die Wissenschaft!</p>
+      (Artenzahl + Menge an Insekten) offenbart wurde. Dafür gibt es vielerlei Gründe, <br />
+      insbesondere der Verlust an Lebensraum durch Wegräumen von Totholz, Veränderungen <br />
+      in der Landschaft so wie die Ausbreitung nicht heimischer Gartenpflanzen sind <br />
+      wesentliche Faktoren. Dabei sind Insekten nicht nur Bestäuber vieler Nutzpflanzen, <br />
+      sie sind die Grundlage aller Nahrungsketten. Der Artenschwund hat massive Folgen <br />
+      für uns Menschen, nicht nur für die Wissenschaft!</p>
 
     <p>Für den Bau eines Insektenhotels brauchst du (hauptsächlich) folgende Dinge: <br />
       - Holz <br />
@@ -30,16 +29,23 @@
       - Stroh <br />
       - Schilf <br /> </p>
 
-      <p>Weitere Ansprüche gelten für den perfekten Standort: <br />
-        - regengeschützt <br />
-        - Sonnig <br />
+      <br /> <img src= "4insektenhotel - ausschnitt.png" alt="Bildbeschreibung"> <br />  <br />
+
+      <p>Wie sollte der perfekten Standort aussehen? <br />
+        - regengeschützte Lage <br />
+        - sonniger Standort <br />
         - Schutz vor Zugluft </p>
       <br />
 
-      <hr /> Frage: Wer lebt normalerweise hierzulande im Insektenhotel?
-        <br />UR: Pfauenspinne        
-        <br />OE: Schwalbenschwanz
-        <br />TA: Picassokäfer  
+      <hr />
+      Hast du den kurzen Text aufmerksam gelesen? <br /> 
+       Dann kannst du diese Aufgabe ja beantworten. <br />
+       Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br />
+
+      Frage: Welches Tier könnte hierzulande in einem Insektenhotel leben?
+        <br />TOR: Vogelspinne        
+        <br />DEM: Schwalbenschwanz
+        <br />DER: Herkuleskäferr  
         <br />
         <br />
         <br />

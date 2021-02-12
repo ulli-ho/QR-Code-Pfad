@@ -8,33 +8,50 @@
   <body>
     <h1>Station 7: Ökosystem Teich</h1>
 
-    <p>Stoffkreislauf: <br />
-     Die Pflanzen nehmen Kohlenstoffdioxid und Nährsalze auf. Kohlenstoffdioxid <br />
-     wandeln sie durch Fotosynthese in Sauerstoff um und scheiden diesen dann aus. <br />
-     Der Sauerstoff und die durch Pflanzenwachstum produzierte Biomasse ist für andere <br />
-     Lebewesen im Teich wichtig.</p>
+    <p>Die Pflanzen des Teiches nehmen Kohlenstoffdioxid und Nährsalze auf. <br />
+      Kohlenstoffdioxid wandeln sie durch Fotosynthese in Sauerstoff um und <br />
+      scheiden diesen dann aus. Der Sauerstoff und die durch Pflanzenwachstum <br />
+      produzierte Biomasse ist für andere Lebewesen im Teich wichtig. Die hier <br />
+      vorkommenden Organismen stehen in vielfältiger Beziehung zueinander. Hier <br />
+      habe ich grob Stoffwechsel beschrieben.</p>
 
-    <p>Problematisch wird es, wenn aufgrund von fehlender Wasserumwälzung, <br />
-     Laubeintrag, Algenwachstum und hohe Temperatur zu Sauerstoffmangel und <br />
-     Verschlammung des Gewässers kommt. Die hier vorkommenden Organismen stehen <br />
-     in vielfältiger Beziehung zueinander.</p>
+    <p>Welche Organismen leben im/ am Teich: <br />
+     - Pflanzen (Wasserlilien, Seerosen ...) <br />
+     - Fische (Karpfen, Stichlinge ...) <br />
+     - Amphibien (Frösche, Molche ...) <br />
+     - Insekten (Libellen, Wasserläufer ...) <br /> 
+     - andere Organismen wie Schnecken, Enten ... <br /></p>
 
-    <p>Welche Organismen lebt im/ am Teich: <br />
-      - Pflanzen (Wasserlilien, Seerosen ...) <br />
-      - Fische (Karpfen, Stichlinge ...) <br />
-      - Amphibien (Frösche, Molche ...) <br />
-      - Insekten (Libellen, Wasserläufer ...) <br /> 
-      - andere (Schnecken, Enten ...) <br /></p>
+    <p> </p>
 
-    <p>Der Teich ist ein vom Menschen angelegtes Gewässer und kann ein zu- und Ablauf <br />
+    <p>Der Teich ist ein vom Menschen angelegtes Gewässer und kann einen Zu- und Ablauf <br />
      besitzen, wodurch die Wasserumwälzung möglich wird. Aufgrund seiner geringen Tiefe <br />
-     gibt es keine feste Temperaturbildung wie bei einem tiefen See.<br />
+     gibt es keine feste Temperaturschichtung wie bei einem tiefen See.<br />
+     
+     Problematisch wird es, wenn aufgrund von fehlender Wasserumwälzung, <br />
+     Laubeintrag, Algenwachstum und hohe Temperatur zu Sauerstoffmangel und <br />
+     Verschlammung des Gewässers kommt. <br />
      Von Teichen existieren verschiedene Nutzformen, wir können ihn als eigenes Ökosystem <br />
      betrachten. </p>
 
-   <hr /> Frage: Was ist keine Gartenteichart?
-       <br />SZ: Molchteich
-       <br />KD: Koiteich
-       <br />TR: Karpfenteich
+   <hr />
+   Hast du den kurzen Text aufmerksam gelesen? <br /> 
+     Dann kannst du diese Aufgabe ja beantworten. <br />
+     Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br />
+   
+   Frage: Welches Tier lebt definitiv in/an eibnem Teich nicht?
+       <br />ETE: Stockente
+       <br />ANK: Reiherente 
+       <br />OPF: Gummiente
+
+       <br />
+       <br />
+       <br />
+
+    Wie kannst du jetzt den Schatz finden? <br />
+    Laufe zu erst zum Meerschweinchengehgege und folge dann dem Weg 15m <br />
+    Richtung Norden. Wenn du dann nach links schaust, siehst du unser grünes<br />
+    Klassenzimmer, dort kannst du nun den Schatz finden. 
+
   </body>
 </html>  
