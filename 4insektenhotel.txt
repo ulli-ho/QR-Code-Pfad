@@ -1,51 +1,54 @@
 <!doctype html>
 <html lang="de">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>4. Das Insektenhotel</title>
+    <title>Das Insektenhotel</title>
+    <link href="4insektenhotel_CSS.css" type= "text/css" rel="stylesheet" />
   </head>
   <body>
-    <h1>Station 4: Das Insektenhotel</h1>
-    <p>Insektenhotels sind vom Menschen hergestellte Nist- und <br />
+         <h1><p align="center">Dies ist die vierte Station!</h1> 
+ 	<hr>
+	<h1> <p align="center">Schaffst du das Rätsel? </h1>
+	<hr>
+    <h2><p align="center"><u>Das Insektenhotel</u></h2>
+    <h2><p align="center">Insektenhotels sind vom Menschen hergestellte Nist- und <br />
       Überwinterungsgelegenheiten für Insekten. Einheimische Solitärbienen <br />
       und -wespen, die für die Bestäubung vieler verschiedener Pflanzen wichtig <br />
       sind, können hier eine Heimat finden. Ihre natürlichen Standorte wie <br />
       abgestorbene Baumriesen so wie Trockenrasen und -mauern sind durch intensive <br />
-      Flächennutzung durch den Menschen verloren gegangen.</p>
+      Flächennutzung durch den Menschen verloren gegangen.</p></h2>
 
-    <p>Seit ca. 30 Jahren erfahren sie zunehmend Verbreitung und Beliebtheit, zumal in <br />
+    <h2><p align="center">Seit ca. 30 Jahren erfahren sie zunehmend Verbreitung und Beliebtheit, zumal in <br />
       diesem Zeitraum wissenschaftlich bestätigt ein rapider Rückgang an Insekten <br />
       (Artenzahl + Menge an Insekten) offenbart wurde. Dafür gibt es vielerlei Gründe, <br />
       insbesondere der Verlust an Lebensraum durch Wegräumen von Totholz, Veränderungen <br />
       in der Landschaft so wie die Ausbreitung nicht heimischer Gartenpflanzen sind <br />
       wesentliche Faktoren. Dabei sind Insekten nicht nur Bestäuber vieler Nutzpflanzen, <br />
       sie sind die Grundlage aller Nahrungsketten. Der Artenschwund hat massive Folgen <br />
-      für uns Menschen, nicht nur für die Wissenschaft!</p>
+      für uns Menschen, nicht nur für die Wissenschaft!</p></h2>
 
-    <p>Für den Bau eines Insektenhotels brauchst du (hauptsächlich) folgende Dinge: <br />
+  <h2><p align="center">Für den Bau eines Insektenhotels brauchst du (hauptsächlich) folgende Dinge: <br />
       - Holz <br />
       - Lehm <br />
       - Stroh <br />
-      - Schilf <br /> </p>
+      - Schilf <br /> </p></h2>
 
-      <br /> <img src= "4insektenhotel - ausschnitt.png" alt="Bildbeschreibung"> <br />  <br />
+      <br /> <p align="center"><img src= "4insektenhotel - ausschnitt.png" alt="Bildbeschreibung"> <br />  <br />
 
-      <p>Wie sollte der perfekten Standort aussehen? <br />
+      <h2><p align="center">Wie sollte der perfekten Standort aussehen? <br />
         - regengeschützte Lage <br />
         - sonniger Standort <br />
-        - Schutz vor Zugluft </p>
+        - Schutz vor Zugluft </p></h2>
       <br />
 
       <hr />
-      Hast du den kurzen Text aufmerksam gelesen? <br /> 
+      <h2><p align="center">Hast du den kurzen Text aufmerksam gelesen? <br /> 
        Dann kannst du diese Aufgabe ja beantworten. <br />
-       Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br />
+       Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br /></p></h2>
 
-      Frage: Welches Tier könnte hierzulande in einem Insektenhotel leben?
-        <br />TOR: Vogelspinne        
-        <br />DEM: Schwalbenschwanz
-        <br />DER: Herkuleskäferr  
+      <h2><p align="center">Frage: Welches Tier könnte hierzulande in einem Insektenhotel leben?
+        <br /><p align="center">TOR: Vogelspinne        
+        <br /><p align="center">DEM: Schwalbenschwanz
+        <br /><p align="center">DER: Herkuleskäfer</p>  
         <br />
         <br />
         <br />

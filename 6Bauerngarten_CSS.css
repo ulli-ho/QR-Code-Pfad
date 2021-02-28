@@ -1,0 +1,11 @@
+h1 { font-family: cursive;
+	color: #FAAC58;
+     background-color: #BE81F7;}
+img.align-center {
+		  display:block;
+		  margin: 0px auto;}
+img.medium {
+	    width: 360px;
+	    height: 360px;}
+
+p { align: justify;}

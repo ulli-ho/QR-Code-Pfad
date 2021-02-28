@@ -1,46 +1,49 @@
 <!doctype html>
 <html lang="de">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2. Das Verwaltungsgebäude</title>
+    <title>Das Verwaltungsgebäude</title>
+    <link href="2arbeitshaus_CSS.css" type= "text/css" rel="stylesheet" />
   </head>
   <body>
-    <h1>Station 2: Das Verwaltungsgebäude</h1>
-
-    <p>Habt ihr euch je Gedanken über die Personen gemacht, die dafür sorgen, <br />
+    <p><h1><p align="center">Dies ist die zweite Station!</h1> 
+	<hr>
+	<h1> <p align="center">Schaffst du das Rätsel? </h1>
+	<hr>	
+    <h2><p align="center"><u> Das Verwaltungsgebäude</u><h2>
+    <h2><p align="center">Habt ihr euch je Gedanken über die Personen gemacht, die dafür sorgen, <br />
       dass es allen Bewohnern des Gartens gut geht, sodass sich die Besucher <br />
-      daran erfreuen können?</p> 
+      daran erfreuen können?</p></h2> 
 
-    <p>Der Beruf des Gärtners ist schwerer, als du vielleicht denkst.<br />
+    <h2><p align="center">Der Beruf des Gärtners ist schwerer, als du vielleicht denkst.<br />
        Während der Ausbildung muss er die lateinischen und deutschen Namen<br />
        der Pflanzen lernen und sich ein ausgeprägtes Wissen über Pflanzen <br />
        aneignen. Viele verschiedene Geräte bedienen, instandhalten können <br />
-       und natürlich noch einiges mehr.</p>
+       und natürlich noch einiges mehr.</p></h2>
 
-    <p>Als Gärtner wird man mit Sicherheit nicht reich, trotzdem werdet ihr <br />
+    <h2><p align="center">Als Gärtner wird man mit Sicherheit nicht reich, trotzdem werdet ihr <br />
        hier nur gut gelaunte, freundliche, hilfsbereite Mitarbeiter antreffen, <br />
        die ihren Beruf lieben. Vielleicht liegt es daran, dass man den ganzen <br />
        Tag an der frischen Luft (allerdings bei Kälte und Hitze) mit <br />
        anderen motivierten Kollegen arbeiten kann - wobei ein hohes Maß an <br />
-       Verantwortungsbewusstsein und Selbstständigkeit verlangt wird.</p>  
+       Verantwortungsbewusstsein und Selbstständigkeit verlangt wird.</p></h2>  
       
-    <p>Natürlich gibt es nicht nur hier im Botanischen Lehrgarten der Stadt <br />
+    <h2><p align="center">Natürlich gibt es nicht nur hier im Botanischen Lehrgarten der Stadt <br />
        Leipzig Gärtner. Als Gärtner kann man auch für die Gestaltung von Grünlagen, <br />
        in großen Gärtnereien, Baumschulen, im Zoo und anderen Freizeiteinrichtungen, <br />
        Forschungseinrichtungen so wie auf Friedhöfen eingesetzt werden. Im Botanischen <br />
-      Lehrgarten werden Zierpflanzengärtner Ausgebildet.</p>
+      Lehrgarten werden Zierpflanzengärtner Ausgebildet.</p></h2>
 <br />
     <hr />
-    <img src="2arbeithaus.png" alt="Bildbeschreibung"> <br />
+    <p align="center"><img src="2arbeithaus.png" alt="Bildbeschreibung"> <br />
   
-    Hast du den kurzen Text aufmerksam gelesen? <br /> 
+    <h2><p align="center">Hast du den kurzen Text aufmerksam gelesen? <br /> 
      Dann kannst du diese Aufgabe ja beantworten. <br />
-     Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br />
-    
-    Wofür wurde das Gerät auf dem Foto entwickelt?
+     Nur eine Antwort Stimmt, merke dir die richtige Buchstabenkombination! <br /></p></h2>
+    <hr>
+    <h2><p align="center">Wofür wurde das Gerät auf dem Foto entwickelt?
+	<br>
      <br />DE: um die Erde aufzulockern
      <br />SE: zum Reihen ziehen
-     <br />UG: um Abstände zu messen 
+     <br />UG: um Abstände zu messen</p></h2> 
   </body>
 </html>

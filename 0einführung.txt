@@ -1,32 +1,34 @@
 <!doctype html>
 <html lang="de">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="0Einführung_CSS.css" type= "text/css" rel="stylesheet" />
     <title>Einführung</title>
   </head>
   <body>
-    <h1>Hallo lieber Besucher.</h1> 
+ <b><i><h1><p align="center">Hallo lieber Besucher!</i></b></h1>    
 
-    <p>Dies ist der QR-Code-Pfad "Spannende Entdeckungen im botanischen <br />
-      Lehrgarten Leipzig". Bevor du Starten kannst, lies dir bitte die <br />
-      folgenden Informationen aufmerksam durch:</p>
+    <h2><p align="center">Dies ist der QR-Code-Pfad "Spannende Entdeckungen im botanischen <br />
+      Lehrgarten Leipzig".</p> 
+	<hr>
+      <h2><p align="center">Bevor du Starten kannst, lies dir bitte die <br />
+      folgenden Informationen aufmerksam durch:</h2></p>
 
-    <p>1. Bitte bleibe auf den Wegen und halte die Gartenordnung ein <br />
+    <h2><p align="center">1. Bitte bleibe auf den Wegen und halte die Gartenordnung ein <br />
       2. dieser Rundgang erfolgt auf eigene Gefahr <br />
       3. in dem Pfad erfährst du in verschiedenen Stationen interessante Dinge <br />
       rund um den Garten, am Ende jeder Station findest du ein kleines Rätsel <br />
       - es gibt immer nur eine richtige Lösung! Durch das Lösen erhälst du <br />
       Buchstaben, die dich dann zum Schatz führen. Am besten schreibst du dir die <br />
-      Buchstaben auf, dann fällt es dir am Ende leicher den Schatz zu finden. <br />
-      Viel Glück! </p> 
+      Buchstaben auf, dann fällt es dir am Ende leicher den Schatz zu finden. <br /></p> 
+	<hr>
 
-    <p>Dieser QR-Code-Pfad wurde von der Schülerin Ulrike Hofmann der <br />
+    <h2><p align="center">Dieser QR-Code-Pfad wurde von der Schülerin Ulrike Hofmann der <br />
      Arwed-Rossbach-Schule, mit der Hilfe der Biologie und Chemie Lehrerin <br />
      Frau Göpfert-Krauß erstellt. <br />
      Ich möchte mich ganz herzlichen bei dem Förderverein des Schulbiologie <br />
      Zentrums für die finanzierung der Schilder, sowie den Mitarbeitern des <br />
      botanischen Lehrgartens bedanken. Besonderer  Dank gilt dem Leiter des <br />
-     botanischen Lehrgartens Herrn Axel Rehm für die freundliche Unterstützung.</p>
-  </body>
+     botanischen Lehrgartens Herrn Axel Rehm für die freundliche Unterstützung.</h2></p>	 
+	<h1><p align="center"> Viel Glück!</h1></p>
+</body>
 </html>
